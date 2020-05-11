@@ -1,37 +1,36 @@
 {
   "_args": [
     [
-      "react-d3-graph@2.3.0",
+      "customized-react-d3-graph@1.0.0",
       "F:\\Linda\\Work work\\Dark-web-categorization"
     ]
   ],
-  "_from": "react-d3-graph@2.3.0",
-  "_id": "react-d3-graph@2.3.0",
+  "_from": "customized-react-d3-graph@1.0.0",
+  "_id": "customized-react-d3-graph@1.0.0",
   "_inBundle": false,
   "_integrity": "sha512-KjWr53wZt6gbHf4CREFSR9NGuo7P+7nxaj5OXKFna/RclZogxWgCsQne+jYd9bNqEWAg08Qn+xNDh74mqtJHHw==",
-  "_location": "/react-d3-graph",
+  "_location": "/customized-react-d3-graph",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "react-d3-graph@2.3.0",
-    "name": "react-d3-graph",
-    "escapedName": "react-d3-graph",
-    "rawSpec": "2.3.0",
+    "raw": "customized-react-d3-graph@1.0.0",
+    "name": "customized-react-d3-graph",
+    "escapedName": "customized-react-d3-graph",
+    "rawSpec": "1.0.0",
     "saveSpec": null,
-    "fetchSpec": "2.3.0"
+    "fetchSpec": "1.0.0"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-d3-graph/-/react-d3-graph-2.3.0.tgz",
-  "_spec": "2.3.0",
+  "_spec": "1.0.0",
   "_where": "F:\\Linda\\Work work\\Dark-web-categorization",
   "author": {
-    "name": "Daniel Caldas"
+    "name": "Daniel Caldas (changes by LindaHa)"
   },
   "bugs": {
-    "url": "https://github.com/danielcaldas/react-d3-graph/issues"
+    "url": "https://github.com/LindaHa/customized-react-d3-graph/issues"
   },
   "description": "React component to build interactive and configurable graphs with d3 effortlessly",
   "devDependencies": {
@@ -82,7 +81,7 @@
   "engines": {
     "node": ">=8.9.0"
   },
-  "homepage": "https://github.com/danielcaldas/react-d3-graph#readme",
+  "homepage": "https://github.com/LindaHa/customized-react-d3-graph#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
@@ -107,14 +106,14 @@
     ]
   },
   "main": "lib/index.js",
-  "name": "react-d3-graph",
+  "name": "customized-react-d3-graph",
   "peerDependencies": {
     "d3": "^5.5.0",
     "react": "^16.4.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielcaldas/react-d3-graph.git"
+    "url": "git+https://github.com/LindaHa/customized-react-d3-graph.git"
   },
   "scripts": {
     "check": "npm run docs:lint && npm run lint && npm run test && npm run functional",
@@ -140,5 +139,5 @@
     "test:clean": "jest --no-cache --updateSnapshot --verbose --coverage --config jest.config.js",
     "test:watch": "jest --verbose --coverage --watchAll --config jest.config.js"
   },
-  "version": "2.3.0"
+  "version": "1.0.0"
 }
