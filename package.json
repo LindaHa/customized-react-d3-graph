@@ -1,31 +1,4 @@
 {
-  "_args": [
-    [
-      "customized-react-d3-graph@1.0.0",
-      "F:\\Linda\\Work work\\Dark-web-categorization"
-    ]
-  ],
-  "_from": "customized-react-d3-graph@1.0.0",
-  "_id": "customized-react-d3-graph@1.0.0",
-  "_inBundle": false,
-  "_integrity": "sha512-KjWr53wZt6gbHf4CREFSR9NGuo7P+7nxaj5OXKFna/RclZogxWgCsQne+jYd9bNqEWAg08Qn+xNDh74mqtJHHw==",
-  "_location": "/customized-react-d3-graph",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "customized-react-d3-graph@1.0.0",
-    "name": "customized-react-d3-graph",
-    "escapedName": "customized-react-d3-graph",
-    "rawSpec": "1.0.0",
-    "saveSpec": null,
-    "fetchSpec": "1.0.0"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_spec": "1.0.0",
-  "_where": "F:\\Linda\\Work work\\Dark-web-categorization",
   "author": {
     "name": "Daniel Caldas (changes by LindaHa)"
   },

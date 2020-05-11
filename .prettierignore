@@ -3,9 +3,3 @@ package-lock.json
 *.snap
 *.bundle.js
 *.bundle.js.map
-
-.idea/*
-!.idea/codeStyleSettings.xml
-!.idea/codeStyles
-!.idea/libraries
-!.idea/inspectionProfiles
